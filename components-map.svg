@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="1460" viewBox="0 0 1460 1460" font-family="Helvetica, Arial, sans-serif">
+<rect width="1460" height="1460" fill="#ffffff"/>
+<text x="20" y="34" font-size="22" font-weight="bold" fill="#16181d">Flat Search — Components Map</text>
+<text x="20" y="58" font-size="13" fill="#6b7280">MESA AI-Native Track · Cohort C4 · Section B · L2 Assessment Part B — constraints in first, listings second</text>
+<text x="20" y="78" font-size="13" fill="#6b7280">Live: https://flat-search-mesa.vercel.app · Repo: github.com/samkitmehtallm/flat-search-mesa</text>
+<rect x="0" y="92" width="1460" height="54" fill="#16181d"/>
+<text x="105.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ACTOR</text>
+<text x="335.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">TRIGGER</text>
+<text x="585.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">INPUT</text>
+<text x="835.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">CONTEXT</text>
+<text x="1085.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">PROCESSING</text>
+<text x="1335.0" y="124.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">OUTPUT</text>
+<rect x="0" y="146" width="1460" height="136" fill="#eef2fb"/>
+<text x="14" y="174" font-size="13" font-weight="bold" fill="#16181d">RIYA</text>
+<text x="14" y="192" font-size="11" fill="#6b7280">Coordinator</text>
+<text x="224" y="173" font-size="13" fill="#16181d">Creates the search and gets</text>
+<text x="224" y="191" font-size="13" fill="#16181d">a 6-character code. Shares</text>
+<text x="224" y="209" font-size="13" fill="#16181d">it with Meera and Kavita.</text>
+<text x="224" y="227" font-size="13" fill="#16181d">This is the only thing that</text>
+<text x="224" y="245" font-size="13" fill="#16181d">starts the process.</text>
+<text x="474" y="173" font-size="13" fill="#16181d">Fills the same form as</text>
+<text x="474" y="191" font-size="13" fill="#16181d">everyone else: max ₹22,000</text>
+<text x="474" y="209" font-size="13" fill="#16181d">share, must stay within 20</text>
+<text x="474" y="227" font-size="13" fill="#16181d">min of Baner (gym +</text>
+<text x="474" y="245" font-size="13" fill="#16181d">family), parking is a</text>
+<text x="474" y="263" font-size="13" fill="#16181d">dealbreaker.</text>
+<text x="835.0" y="218.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1085.0" y="218.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1224" y="173" font-size="13" fill="#16181d">Opens a shortlist of 3</text>
+<text x="1224" y="191" font-size="13" fill="#16181d">flats, each showing exactly</text>
+<text x="1224" y="209" font-size="13" fill="#16181d">who gets what and who is</text>
+<text x="1224" y="227" font-size="13" fill="#16181d">compromising — before</text>
+<text x="1224" y="245" font-size="13" fill="#16181d">anyone gets attached to</text>
+<text x="1224" y="263" font-size="13" fill="#16181d">one.</text>
+<line x1="0" y1="282" x2="1460" y2="282" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="282" width="1460" height="136" fill="#eef2fb"/>
+<text x="14" y="310" font-size="13" font-weight="bold" fill="#16181d">MEERA &amp; KAVITA</text>
+<text x="14" y="328" font-size="11" fill="#6b7280">Participants</text>
+<text x="224" y="309" font-size="13" fill="#16181d">Open the shared link or</text>
+<text x="224" y="327" font-size="13" fill="#16181d">enter the code. Neither</text>
+<text x="224" y="345" font-size="13" fill="#16181d">sees a single listing</text>
+<text x="224" y="363" font-size="13" fill="#16181d">before submitting.</text>
+<text x="474" y="309" font-size="13" fill="#16181d">Each fills the form</text>
+<text x="474" y="327" font-size="13" fill="#16181d">independently. Meera: lift</text>
+<text x="474" y="345" font-size="13" fill="#16181d">is a dealbreaker (knee).</text>
+<text x="474" y="363" font-size="13" fill="#16181d">Kavita: 40 min max to</text>
+<text x="474" y="381" font-size="13" fill="#16181d">Hinjewadi, excludes</text>
+<text x="474" y="399" font-size="13" fill="#16181d">Hadapsar and Viman Nagar.</text>
+<text x="835.0" y="354.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1085.0" y="354.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1224" y="309" font-size="13" fill="#16181d">Each sees her own column in</text>
+<text x="1224" y="327" font-size="13" fill="#16181d">every option: what she</text>
+<text x="1224" y="345" font-size="13" fill="#16181d">gets, what she gives up,</text>
+<text x="1224" y="363" font-size="13" fill="#16181d">and nothing hidden until</text>
+<text x="1224" y="381" font-size="13" fill="#16181d">later.</text>
+<line x1="0" y1="418" x2="1460" y2="418" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="418" width="1460" height="190" fill="#fdf6e9"/>
+<text x="14" y="446" font-size="13" font-weight="bold" fill="#16181d">FLAT SEARCH APP</text>
+<text x="14" y="464" font-size="11" fill="#6b7280">Vercel · static + serverless</text>
+<text x="224" y="445" font-size="13" fill="#16181d">POST /api/session mints the</text>
+<text x="224" y="463" font-size="13" fill="#16181d">session and share code.</text>
+<text x="474" y="445" font-size="13" fill="#16181d">POST /api/participant</text>
+<text x="474" y="463" font-size="13" fill="#16181d">validates each submission</text>
+<text x="474" y="481" font-size="13" fill="#16181d">and stores dealbreakers and</text>
+<text x="474" y="499" font-size="13" fill="#16181d">preferences in separate</text>
+<text x="474" y="517" font-size="13" fill="#16181d">fields — they are never</text>
+<text x="474" y="535" font-size="13" fill="#16181d">conflated.</text>
+<text x="724" y="445" font-size="13" fill="#16181d">GET /api/match loads every</text>
+<text x="724" y="463" font-size="13" fill="#16181d">listing for the city plus</text>
+<text x="724" y="481" font-size="13" fill="#16181d">the commute matrix, so</text>
+<text x="724" y="499" font-size="13" fill="#16181d">nothing is guessed at match</text>
+<text x="724" y="517" font-size="13" fill="#16181d">time.</text>
+<text x="974" y="445" font-size="13" fill="#16181d">matcher.js evaluates every</text>
+<text x="974" y="463" font-size="13" fill="#16181d">listing against every</text>
+<text x="974" y="481" font-size="13" fill="#16181d">person. A dealbreaker</text>
+<text x="974" y="499" font-size="13" fill="#16181d">disqualifies the flat</text>
+<text x="974" y="517" font-size="13" fill="#16181d">outright; a preference</text>
+<text x="974" y="535" font-size="13" fill="#16181d">becomes a named compromise.</text>
+<text x="974" y="553" font-size="13" fill="#16181d">Ranked by fewest</text>
+<text x="974" y="571" font-size="13" fill="#16181d">dealbreakers, then fewest</text>
+<text x="974" y="589" font-size="13" fill="#16181d">compromises, then rent.</text>
+<text x="1224" y="445" font-size="13" fill="#16181d">Top 3 flats that clear</text>
+<text x="1224" y="463" font-size="13" fill="#16181d">everyone's dealbreakers,</text>
+<text x="1224" y="481" font-size="13" fill="#16181d">plus the 3 nearest misses</text>
+<text x="1224" y="499" font-size="13" fill="#16181d">with the specific reason</text>
+<text x="1224" y="517" font-size="13" fill="#16181d">each was ruled out.</text>
+<line x1="0" y1="608" x2="1460" y2="608" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="608" width="1460" height="154" fill="#fdecec"/>
+<text x="14" y="636" font-size="13" font-weight="bold" fill="#16181d">GEMINI</text>
+<text x="14" y="654" font-size="11" fill="#6b7280">LLM</text>
+<text x="335.0" y="689.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="585.0" y="689.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="835.0" y="689.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="974" y="635" font-size="13" fill="#16181d">Reads the per-person</text>
+<text x="974" y="653" font-size="13" fill="#16181d">breakdown of each</text>
+<text x="974" y="671" font-size="13" fill="#16181d">qualifying option.</text>
+<text x="974" y="689" font-size="13" fill="#16181d">Deliberately outside the</text>
+<text x="974" y="707" font-size="13" fill="#16181d">decision path — it never</text>
+<text x="974" y="725" font-size="13" fill="#16181d">decides what qualifies.</text>
+<text x="1224" y="635" font-size="13" fill="#16181d">One neutral sentence per</text>
+<text x="1224" y="653" font-size="13" fill="#16181d">option naming the real</text>
+<text x="1224" y="671" font-size="13" fill="#16181d">tradeoff. Never ranks or</text>
+<text x="1224" y="689" font-size="13" fill="#16181d">recommends. Falls back to a</text>
+<text x="1224" y="707" font-size="13" fill="#16181d">deterministic sentence on</text>
+<text x="1224" y="725" font-size="13" fill="#16181d">quota or outage, so the app</text>
+<text x="1224" y="743" font-size="13" fill="#16181d">never breaks.</text>
+<line x1="0" y1="762" x2="1460" y2="762" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="762" width="1460" height="136" fill="#eaf6ee"/>
+<text x="14" y="790" font-size="13" font-weight="bold" fill="#16181d">PROPERTY API</text>
+<text x="14" y="808" font-size="11" fill="#6b7280">99acres etc.</text>
+<text x="335.0" y="834.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="585.0" y="834.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="724" y="789" font-size="13" fill="#16181d">Listing feed: area, total</text>
+<text x="724" y="807" font-size="13" fill="#16181d">rent, BHK, bathrooms,</text>
+<text x="724" y="825" font-size="13" fill="#16181d">floor, lift, parking, pet</text>
+<text x="724" y="843" font-size="13" fill="#16181d">policy, furnishing.</text>
+<text x="974" y="789" font-size="13" fill="#16181d">Currently a seeded dataset</text>
+<text x="974" y="807" font-size="13" fill="#16181d">of 16 Pune listings in the</text>
+<text x="974" y="825" font-size="13" fill="#16181d">same shape a live feed</text>
+<text x="974" y="843" font-size="13" fill="#16181d">returns — swapping in the</text>
+<text x="974" y="861" font-size="13" fill="#16181d">real API changes only this</text>
+<text x="974" y="879" font-size="13" fill="#16181d">box.</text>
+<text x="1335.0" y="834.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<line x1="0" y1="898" x2="1460" y2="898" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="898" width="1460" height="136" fill="#eaf6ee"/>
+<text x="14" y="926" font-size="13" font-weight="bold" fill="#16181d">SUPABASE</text>
+<text x="14" y="944" font-size="11" fill="#6b7280">Database</text>
+<text x="335.0" y="970.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="474" y="925" font-size="13" fill="#16181d">sessions and participants.</text>
+<text x="474" y="943" font-size="13" fill="#16181d">Dealbreakers and</text>
+<text x="474" y="961" font-size="13" fill="#16181d">preferences live in</text>
+<text x="474" y="979" font-size="13" fill="#16181d">separate columns by design.</text>
+<text x="724" y="925" font-size="13" fill="#16181d">listings and commutes (area</text>
+<text x="724" y="943" font-size="13" fill="#16181d">→ work location, in</text>
+<text x="724" y="961" font-size="13" fill="#16181d">minutes) — the facts the</text>
+<text x="724" y="979" font-size="13" fill="#16181d">matcher reasons over.</text>
+<text x="1085.0" y="970.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1224" y="925" font-size="13" fill="#16181d">results stores the</text>
+<text x="1224" y="943" font-size="13" fill="#16181d">shortlist the group was</text>
+<text x="1224" y="961" font-size="13" fill="#16181d">actually shown, so the</text>
+<text x="1224" y="979" font-size="13" fill="#16181d">conversation has a record</text>
+<text x="1224" y="997" font-size="13" fill="#16181d">instead of living in a</text>
+<text x="1224" y="1015" font-size="13" fill="#16181d">WhatsApp thread.</text>
+<line x1="0" y1="1034" x2="1460" y2="1034" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="1034" width="1460" height="118" fill="#f4f4f2"/>
+<text x="14" y="1062" font-size="13" font-weight="bold" fill="#16181d">OTHER API</text>
+<text x="14" y="1080" font-size="11" fill="#6b7280">Optional</text>
+<text x="335.0" y="1097.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="585.0" y="1097.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="724" y="1061" font-size="13" fill="#16181d">A live maps/traffic API</text>
+<text x="724" y="1079" font-size="13" fill="#16181d">would replace the seeded</text>
+<text x="724" y="1097" font-size="13" fill="#16181d">commute matrix, making the</text>
+<text x="724" y="1115" font-size="13" fill="#16181d">commute limits real-time</text>
+<text x="724" y="1133" font-size="13" fill="#16181d">rather than static.</text>
+<text x="1085.0" y="1097.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<text x="1335.0" y="1097.0" font-size="15" fill="#c8ccc6" text-anchor="middle">—</text>
+<line x1="0" y1="1152" x2="1460" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="210" y1="92" x2="210" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="460" y1="92" x2="460" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="710" y1="92" x2="710" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="960" y1="92" x2="960" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="1210" y1="92" x2="1210" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<line x1="1460" y1="92" x2="1460" y2="1152" stroke="#d9dbd7" stroke-width="1"/>
+<rect x="0" y="92" width="1460" height="1060" fill="none" stroke="#d9dbd7" stroke-width="1"/>
+<text x="20" y="1198" font-size="15" font-weight="bold" fill="#16181d">How one search runs, end to end</text>
+<text x="20" y="1224" font-size="13" fill="#16181d">1.  Riya creates the search  -&gt;  6-character code  -&gt;  shared with Meera and Kavita.</text>
+<text x="20" y="1245" font-size="13" fill="#16181d">2.  All three fill the same form separately. Nobody has seen a listing yet — that is the fix for the WhatsApp thread.</text>
+<text x="20" y="1266" font-size="13" fill="#16181d">3.  On request, the app pulls every listing + the commute matrix from Supabase.</text>
+<text x="20" y="1287" font-size="13" fill="#16181d">4.  matcher.js checks each listing against each person. Dealbreaker -&gt; the flat is out. Preference -&gt; a named compromise.</text>
+<text x="20" y="1308" font-size="13" fill="#16181d">5.  Gemini writes one neutral sentence per surviving option. It phrases the tradeoff; it never picks the flat.</text>
+<text x="20" y="1329" font-size="13" fill="#16181d">6.  The group gets 3 real options with a per-person breakdown, plus the nearest misses and exactly why each was ruled out.</text>
+<text x="20" y="1376" font-size="13" font-style="italic" fill="#6b7280">The tool never chooses. It removes what does not qualify and makes every compromise visible before anyone gets attached to a flat.</text>
+</svg>
