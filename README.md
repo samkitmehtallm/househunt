@@ -1,8 +1,8 @@
-# Flat Search — constraints first, listings second
+# HouseHunt — constraints first, listings second
 
 MESA AI-Native Track · Cohort C4 · Section B · L2 Assessment Part B
 
-**Live:** https://flat-search-mesa.vercel.app
+**Live:** https://househunt-noreply6.vercel.app
 **Components map:** [`components-map.png`](components-map.png)
 
 ---

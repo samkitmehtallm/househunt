@@ -1,8 +1,8 @@
 {
-  "name": "flat-search-mesa",
+  "name": "househunt",
   "version": "1.0.0",
   "private": true,
-  "description": "Group flat search: constraints first, listings second. MESA L2 Assessment Part B.",
+  "description": "HouseHunt — group flat search: constraints first, listings second. MESA L2 Assessment Part B.",
   "type": "module",
   "engines": { "node": ">=18" },
   "dependencies": {
