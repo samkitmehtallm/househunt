@@ -1,0 +1,11 @@
+{
+  "name": "flat-search-mesa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Group flat search: constraints first, listings second. MESA L2 Assessment Part B.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}

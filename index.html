@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Flat Search — constraints first, listings second</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>Flat Search</h1>
+        <p class="tagline">Everyone's constraints go in first. Then we find what actually qualifies.</p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <!-- ===== HOME ===== -->
+      <section id="view-home" class="view">
+        <div class="two-col">
+          <div class="card">
+            <h2>Start a search</h2>
+            <p class="muted">You'll get a code to share with the others. They fill in their own constraints separately — nobody sees a listing until everyone's in.</p>
+            <label for="session-name">What are you searching for?</label>
+            <input id="session-name" type="text" placeholder="e.g. 3BHK for Riya, Meera &amp; Kavita" />
+            <button id="btn-create" class="primary">Create search</button>
+          </div>
+
+          <div class="card">
+            <h2>Join a search</h2>
+            <p class="muted">Got a code from whoever set this up? Enter it and fill in what you need.</p>
+            <label for="join-code">Search code</label>
+            <input id="join-code" type="text" placeholder="e.g. K7P2QM" maxlength="6" class="code-input" />
+            <button id="btn-join" class="primary">Join</button>
+          </div>
+        </div>
+        <p id="home-error" class="error" hidden></p>
+      </section>
+
+      <!-- ===== FORM ===== -->
+      <section id="view-form" class="view" hidden>
+        <div class="code-banner">
+          <div>
+            <span class="muted">Search code</span>
+            <strong id="form-code" class="code-display"></strong>
+          </div>
+          <button id="btn-copy" class="ghost">Copy code</button>
+        </div>
+
+        <div class="card">
+          <h2>Your constraints</h2>
+          <p class="muted">
+            Be honest about the difference between a dealbreaker and a preference. That distinction is the
+            whole point — a dealbreaker removes a flat from the list, a preference just gets named as a
+            compromise.
+          </p>
+
+          <div class="field">
+            <label for="p-name">Your name</label>
+            <input id="p-name" type="text" placeholder="Riya" />
+          </div>
+
+          <div class="row">
+            <div class="field">
+              <label for="p-rent">Most you can pay per month (your share)</label>
+              <input id="p-rent" type="number" placeholder="20000" min="0" step="500" />
+            </div>
+            <div class="field">
+              <label for="p-baths">Minimum bathrooms</label>
+              <select id="p-baths">
+                <option value="1">1</option>
+                <option value="2" selected>2</option>
+                <option value="3">3</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="field">
+              <label for="p-work">Where you commute to</label>
+              <select id="p-work">
+                <option value="">Not relevant</option>
+                <option>Hinjewadi</option>
+                <option>Kharadi</option>
+                <option>Baner</option>
+                <option>Shivajinagar</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="p-commute">Longest commute you'll accept (minutes)</label>
+              <input id="p-commute" type="number" placeholder="45" min="0" step="5" />
+              <span class="hint">Leave blank if you have no hard limit</span>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>Areas you will not consider</label>
+            <div id="areas-list" class="chips"></div>
+            <span class="hint">Tick anything that's off the table for you, whatever the flat looks like</span>
+          </div>
+
+          <div class="field">
+            <label>Dealbreakers — the flat must have these</label>
+            <div class="chips" id="must-list"></div>
+            <span class="hint">If a flat lacks any of these, it will not be shortlisted at all</span>
+          </div>
+
+          <div class="field">
+            <label>Preferences — you'd like these, but could live without</label>
+            <div class="chips" id="nice-list"></div>
+            <span class="hint">These never disqualify a flat. They show up as "what you're giving up"</span>
+          </div>
+
+          <button id="btn-submit" class="primary">Submit my constraints</button>
+          <p id="form-error" class="error" hidden></p>
+        </div>
+
+        <div class="card" id="who-filled">
+          <h3>Who's filled it in</h3>
+          <ul id="participants-list" class="people"></ul>
+          <button id="btn-results" class="secondary">See what qualifies</button>
+        </div>
+      </section>
+
+      <!-- ===== RESULTS ===== -->
+      <section id="view-results" class="view" hidden>
+        <div class="code-banner">
+          <div>
+            <span class="muted">Search code</span>
+            <strong id="results-code" class="code-display"></strong>
+          </div>
+          <button id="btn-back" class="ghost">Back to form</button>
+        </div>
+
+        <div id="results-meta" class="meta-line"></div>
+        <div id="results-list"></div>
+
+        <div id="near-misses-block" hidden>
+          <h3 class="section-title">Ruled out, and why</h3>
+          <p class="muted">
+            These came closest but break someone's dealbreaker. Shown so nobody spends another
+            twenty-four hours on a flat that was never going to work.
+          </p>
+          <div id="near-misses-list"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="wrap footer">
+      <p>
+        The tool doesn't pick the flat. It removes the ones that don't qualify and shows exactly who is
+        compromising on what, so the conversation is about the tradeoff — not about whether a place is
+        even eligible.
+      </p>
+      <p class="muted small">MESA AI-Native Track · Cohort C4 · L2 Assessment Part B</p>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
